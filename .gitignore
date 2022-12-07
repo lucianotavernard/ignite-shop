@@ -19,6 +19,10 @@
 .DS_Store
 *.pem
 
+# Envs
+.env
+.env.local
+
 # debug
 npm-debug.log*
 yarn-debug.log*
